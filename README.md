@@ -14,13 +14,15 @@ This is my first Power BI Finance Dashboard built to learn Power BI and DAX.
 - Data visualization
 - DAX measures
 
-## Dashboard Preview
+## 📊 Dashboard Preview
 
 ### Overview Analysis
-![Overview Analysis](OverviewAnalysis.png)
 
-### Transactions
-![Transactions](Transactions.png)
+![Overview Analysis](dashboard/OverviewAnalysis.png)
+
+### Transactions Analysis
+
+![Transactions Analysis](dashboard/Transactions.png)
 
 ## Learning Source
 Created by following the Data Tutorials YouTube channel.
